@@ -4,7 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
-
+import resume100 from "./resume100.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -50,6 +50,7 @@ export {
   reactjs,
   redux,
   tailwind,
+  resume100,
   threejs,
   meta,
   shopify,

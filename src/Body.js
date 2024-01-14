@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from './MotionCard'
-import {Navbar,About,Experience,Works,Hero, Tech,Contact, Feedbacks} from './components' 
+import {Resume,Navbar,About,Experience,Works,Hero, Tech,Contact, Feedbacks} from './components' 
 const Body = () => {
   return (
 
@@ -12,8 +12,9 @@ const Body = () => {
     <Navbar/>
     
     </div>
-    
+   
     <Hero/>
+    <Resume/>
     <About/> 
     <Experience/>
     <Works/>
