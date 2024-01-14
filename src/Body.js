@@ -23,7 +23,7 @@ const Body = () => {
 
 <Contact/>
 
-    <Card/>
+    {/* <Card/> */}
    </div>
   )
 }

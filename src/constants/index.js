@@ -56,7 +56,7 @@ const services = [
   {
     title: "Porfolio",
     icon: mobile,
-    Deployedlink:"https://leetcode.com/sameerCR7/",
+    Deployedlink:"https://sameerportfolio-rho.vercel.app/",
   },
   {
     title: "Linkedin",
@@ -134,7 +134,7 @@ const experiences = [
     iconBg: "#FFFFFF",
     date: "Jan 2024 - Current",
     points: [
-      "Developing and maintaining web applications using React.js,Html,Css,Javascript and other related technologies.",
+      "Developing and maintaining web applications using React.js Html Css Javascript and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Implemented Learning Management System.",
@@ -262,7 +262,7 @@ const projects = [
   },
   {
     name: "3D Portfolio",
-    DeployedLink:"https://travel-app-bwhc.vercel.app/",
+    DeployedLink:"https://sameerportfolio-rho.vercel.app/",
     description:
       "– building the user interface and managing component-based architecture, while Three.js enables creating and rendering3D graphics and animations. JavaScript provides the necessary scripting and interactivity, allowing users to navigate and explore the portfolio. Tailwind CSS is utilized for efficient styling and responsive design.",
     tags: [
