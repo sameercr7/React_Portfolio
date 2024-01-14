@@ -31,7 +31,7 @@ const Navbar = () => {
       className={`${
         styles.paddingX
       } w-full flex items-center py-5 fixed top-0 z-20 ${
-        scrolled ? "bg-primary" : "bg-transparent"
+        scrolled ? "bg-black" : "bg-transparent"
       }`}
     >
       <div className='w-full flex justify-center max-w-7xl mx-auto'>
@@ -57,7 +57,7 @@ const Navbar = () => {
           </p> */}
         </Link>
 
-        <ul className='list-none hidden sm:flex flex-row  gap-10'>
+        <ul className='list-none  sm:flex flex-row  gap-10'>
           {navLinks.map((nav) => (
             <li
               key={nav.id}
