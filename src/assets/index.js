@@ -17,7 +17,8 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
+// import typescript from "./tech/typescript.png";
+import linkedin from "./linkedin.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
@@ -25,10 +26,11 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
+import travelapp from "./travelapp.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import gccloud from "./company/gccloud.png"
+import samsung from "./company/samsung.png"
 export {
 
   backend,
@@ -36,7 +38,7 @@ export {
   mobile,
   web,
   github,
- 
+ linkedin,
   css,
   docker,
   figma,
@@ -48,13 +50,13 @@ export {
   reactjs,
   redux,
   tailwind,
-  typescript,
   threejs,
   meta,
   shopify,
-  starbucks,
+  samsung,
   tesla,
-  carrent,
+  gccloud,
+  travelapp,
   jobit,
   tripguide,
 };

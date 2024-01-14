@@ -1,23 +1,28 @@
 import React from 'react'
 import Card from './MotionCard'
-import {Navbar,About,Experience,Works,Hero, Tech,Contact} from './components' 
+import {Navbar,About,Experience,Works,Hero, Tech,Contact, Feedbacks} from './components' 
 const Body = () => {
   return (
 
-    <div>
+    <div className='relative z-0'>
     {/* <Example/> */}
 
-    <div>
+    <div className='bg-hero-pattern bg-cover bg-no-repeat bg-center'>
+
     <Navbar/>
     
     </div>
+    
     <Hero/>
+    <About/> 
+    <Experience/>
     <Works/>
-    <About/>   
-<Experience/>
+     
+
 <Tech/>
 
 <Contact/>
+
     <Card/>
    </div>
   )

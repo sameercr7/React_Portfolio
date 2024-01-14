@@ -34,7 +34,7 @@ const Navbar = () => {
         scrolled ? "bg-primary" : "bg-transparent"
       }`}
     >
-      <div className='w-full flex justify-between items-center max-w-7xl mx-auto'>
+      <div className='w-full flex justify-center max-w-7xl mx-auto'>
         <Link
           to='/'
           className='flex items-center gap-2'
@@ -51,13 +51,13 @@ const Navbar = () => {
   alt='logo'
   className='w-12 h-12 object-contain'
 /> */}
-          <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            3D-Porfolio &nbsp;
-            <span className='sm:block hidden'> | Sameer Verma</span>
-          </p>
+          {/* <p className='text-white text-[18px] font-bold cursor-pointer flex '>
+          
+            <span className='sm:block hidden'> Sameer Verma</span>
+          </p> */}
         </Link>
 
-        <ul className='list-none hidden sm:flex flex-row gap-10'>
+        <ul className='list-none hidden sm:flex flex-row  gap-10'>
           {navLinks.map((nav) => (
             <li
               key={nav.id}
