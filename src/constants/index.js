@@ -1,4 +1,8 @@
 import {
+  mysql,
+  clang,
+  python,
+  spring,
   mobile,
   backend,
   creator,
@@ -14,6 +18,7 @@ import {
   mongodb,
   git,
   figma,
+  java,
   docker,
   meta,
   samsung,
@@ -120,10 +125,27 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  // {
-  //   name: "docker",
-  //   icon: docker,
-  // },
+  {
+    name: "java",
+    icon: java,
+  },
+  {
+    name: "clang",
+    icon: clang,
+  },
+  {
+    name: "spring",
+    icon: spring,
+  },
+  {
+    name: "python",
+    icon: python,
+  },
+  {
+    name: "mysql",
+    icon: mysql,
+  },
+
 ];
 
 const experiences = [
@@ -137,7 +159,7 @@ const experiences = [
       "Developing and maintaining web applications using React.js Html Css Javascript and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Implemented Learning Management System.",
+      "Implemented Learning Management System.Site - www.lmsupsdm.com",
       // "Tech Stack : React,Javascript,Java,SQL,SpringBoot"
       "Tech Stack:",
   "React",

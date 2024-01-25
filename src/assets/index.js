@@ -20,6 +20,7 @@ import tailwind from "./tech/tailwind.png";
 // import typescript from "./tech/typescript.png";
 import linkedin from "./linkedin.png";
 import threejs from "./tech/threejs.svg";
+import java from "./tech/java.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -31,8 +32,15 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import gccloud from "./company/gccloud.png"
 import samsung from "./company/samsung.png"
+import spring from "./tech/spring.png";
+import python from "./tech/python.png";
+import mysql from "./tech/mysql.png";
+import clang from "./tech/clang.png";
 export {
-
+  spring,
+  python,
+  mysql,
+  clang,
   backend,
   creator,
   mobile,
@@ -52,6 +60,7 @@ export {
   tailwind,
   resume100,
   threejs,
+  java,
   meta,
   shopify,
   samsung,
