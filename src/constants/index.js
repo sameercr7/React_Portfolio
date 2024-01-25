@@ -159,7 +159,8 @@ const experiences = [
       "Developing and maintaining web applications using React.js Html Css Javascript and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Implemented Learning Management System.Site - www.lmsupsdm.com",
+      "Implemented Learning Management System.",
+      "Site - www.lmsupsdm.com",
       // "Tech Stack : React,Javascript,Java,SQL,SpringBoot"
       "Tech Stack:",
   "React",
