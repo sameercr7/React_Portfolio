@@ -29,7 +29,7 @@ const ServiceCard = ({ index,icon}) => (
         </h3>
       
         <h3 className='text-white text-[20px] font-light text-center'>
-          <a href="https://drive.google.com/file/d/13qa_dVx_0CwGmzVbXXasW-C9r0TnRCBG/view?usp=sharing">Link</a>  
+          <a href="https://drive.google.com/file/d/16t1CjoQrv-Ukt6qkoDG9SaYO8seOgjxA/view">Link</a>  
         </h3>
       </div>
     </motion.div>
