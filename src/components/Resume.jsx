@@ -2,7 +2,7 @@ import React from 'react'
 import {Tilt} from "react-tilt";
 import { motion } from "framer-motion";
 import { SectionWrapper } from "../hoc";
-import { fadeIn, textVariant } from "../utils/motion";
+import { fadeIn } from "../utils/motion";
 import { resume100 } from '../assets';
 const ServiceCard = ({ index,icon}) => (
   <Tilt className='xs:w-[250px] w-full mx-auto my-auto '>
@@ -29,7 +29,7 @@ const ServiceCard = ({ index,icon}) => (
         </h3>
       
         <h3 className='text-white text-[20px] font-light text-center'>
-          <a href="https://drive.google.com/file/d/16t1CjoQrv-Ukt6qkoDG9SaYO8seOgjxA/view">Link</a>  
+          <a href="https://drive.google.com/file/d/1KhlDjkHcVZs2HeRoRikzVchBpry7JgyR/view?usp=sharing">Link</a>  
         </h3>
       </div>
     </motion.div>
