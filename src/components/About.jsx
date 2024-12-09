@@ -51,11 +51,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer  with experience in 
-        JavaScript,Java,C++ and experience in frameworks like React, Mysql, and
-        Springboot. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+       As a Backend Developer and DevOps Engineer at GCCloud Info System Private Ltd, I specialize in building efficient, scalable backend systems and managing seamless deployments. 
+       I have developed robust solutions, such as multi-level review applications, GIS-integrated systems for real-time satellite data visualization, 
+       and scalable reporting tools for water management departments. Leveraging modern technologies like Java, Spring Boot, Docker, Kubernetes, and GCP,
+        I optimize performance and scalability while automating processes with CI/CD pipelines and cloud-based services.
+         My expertise in integrating advanced tools like OCR, Apache POI, and Google Maps APIs ensures high-performance, user-friendly, and data-driven solutions tailored to real-world needs.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
